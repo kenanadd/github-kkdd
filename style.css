@@ -5,3 +5,11 @@ body {
 h1 {
     color:green;
 }
+
+p {
+    background-color: aquamarine;
+    margin: 40px auto;
+    width: 100%;
+    text-align: center;
+    
+}
